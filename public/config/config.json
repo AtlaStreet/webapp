@@ -14,5 +14,6 @@
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/atlastreet",
+  "TWITTER_LINK": "https://twitter.com/AtlaStreetNFT",
   "SHOW_BACKGROUND": false
 }
