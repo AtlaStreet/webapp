@@ -250,13 +250,13 @@ function App() {
             >
               <StyledButton
                 onClick={(e) => {
-                  window.open("/roadmap.pdf", "_blank");
+                  window.open(CONFIG.TWITTER_LINK, "_blank");
                 }}
                 style={{
                   margin: "5px",
                 }}
               >
-                Roadmap
+                Twitter
               </StyledButton>
               <StyledButton
                 style={{
