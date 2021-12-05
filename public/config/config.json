@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x057d738f3e7df1d05fcaa29200635a7e02f48f61",
+  "SCAN_LINK": "https://polygonscan.com/token/0x057d738f3e7df1d05fcaa29200635a7e02f48f61",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "AtlaStreet",
+  "SYMBOL": "ATSR",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 20000000000000000000,
+  "DISPLAY_COST": 20,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/atlastreet",
+  "SHOW_BACKGROUND": false
+}
